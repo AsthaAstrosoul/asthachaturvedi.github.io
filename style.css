@@ -11,3 +11,14 @@ body {
     padding-top: 150px;
 
 }
+nav {
+
+    display: flex;
+
+    justify-content: center;
+
+    gap: 35px;
+
+    padding: 25px;
+
+}
