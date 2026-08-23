@@ -104,3 +104,20 @@ section {
     }
 
 }
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 25px 50px;
+}
+
+.nav-links {
+    display: flex;
+    gap: 30px;
+}
+
+.logo {
+    letter-spacing: 3px;
+    font-weight: bold;
+}
