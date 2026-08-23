@@ -73,3 +73,19 @@ section {
     margin: auto;
     padding: 100px 30px;
 }
+#star-field {
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: -1;
+}
+
+.star {
+    position: absolute;
+
+    width: 2px;
+    height: 2px;
+
+    background: white;
+    border-radius: 50%;
+}
