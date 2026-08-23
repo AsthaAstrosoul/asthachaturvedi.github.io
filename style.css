@@ -89,3 +89,18 @@ section {
     background: white;
     border-radius: 50%;
 }
+.star {
+    animation: twinkle 3s infinite alternate;
+}
+
+@keyframes twinkle {
+
+    from {
+        opacity: 0.2;
+    }
+
+    to {
+        opacity: 1;
+    }
+
+}
