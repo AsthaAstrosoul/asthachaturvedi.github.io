@@ -15,11 +15,6 @@ nav {
     padding: 25px;
 }
 
-.logo {
-    letter-spacing: 3px;
-    font-weight: bold;
-}
-
 .nav-links {
     display: flex;
     gap: 30px;
