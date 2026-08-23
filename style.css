@@ -15,10 +15,6 @@ nav {
     padding: 25px;
 }
 
-.nav-links {
-    display: flex;
-    gap: 30px;
-}
 
 nav a {
     color: white;
